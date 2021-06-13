@@ -1,7 +1,7 @@
 
-namespace :felinstall do
+namespace :example do
   desc 'Install the Example FelPackage'
-  task :example do
+  task :install do
     puts 'The FelPack was pretend-installed!'
   end
 end

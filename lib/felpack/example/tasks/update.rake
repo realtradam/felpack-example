@@ -1,7 +1,7 @@
 
-namespace :felupdate do
+namespace :example do
   desc 'Update the Exmaple FelPackage'
-  task :example do
+  task :update do
     puts 'The FelPack was pretend-updated!'
   end
 end
